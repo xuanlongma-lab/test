@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 刘科迪
-name_pronunciation: Liu Ke Di
+title: 猪小屁
+name_pronunciation: Zhu Xiao Pi
 
 # Is this the primary user of the site?
 superuser: true
