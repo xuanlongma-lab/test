@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 刘科迪
+name_pronunciation: Liu Ke Di
 
 # Is this the primary user of the site?
 superuser: true
